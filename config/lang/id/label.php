@@ -10,4 +10,5 @@ return [
     'name'  => 'Nama',
     'email' => 'Email',
     'phone' => 'No. HP',
+    'detail' => 'Detail',
 ];
